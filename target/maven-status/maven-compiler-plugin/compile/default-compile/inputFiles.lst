@@ -1,9 +1,0 @@
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\model\AuditModel.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\PostgresDemoApplication.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\exception\ResourceNotFoundException.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\model\Question.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\controller\AnswerController.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\repository\AnswerRepository.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\repository\QuestionRepository.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\model\Answer.java
-C:\Main\devops-project\spring-boot-postgresql-jpa-hibernate-rest-api-demo\src\main\java\com\example\postgresdemo\controller\QuestionController.java
